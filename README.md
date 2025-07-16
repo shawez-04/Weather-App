@@ -51,3 +51,12 @@ A clean and responsive weather app built using **HTML**, **CSS**, and **JavaScri
    In script.js, replace the value of apiKey with your own:
 
    const apiKey = "your_api_key_here";
+   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📄 License
+This project is open source.
+Feel free to use and modify for learning or personal projects ✨
+
+✨ Author
+Made with ❤️ by Mohd Shawez Khan  
