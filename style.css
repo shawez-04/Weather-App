@@ -80,7 +80,7 @@ button:hover {
   padding: 7px 0;
   text-align: center;
   border-top: 1px solid #4a90e2;
-  font-family: "Amazon Ember", sans-serif;
+  font-family: Arial, sans-serif;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -124,4 +124,15 @@ button:hover {
   color: #4a90e2;
   text-shadow: 0 0 0.5px #4a90e2;
   transform: scale(1.15);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer-links {    
+    gap: 17px;
+  }
+  .footer-links a {
+    font-size: 13px;
+
+  } 
 }
