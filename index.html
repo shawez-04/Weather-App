@@ -8,15 +8,21 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+<header class="main-header">
+  <h1><i class="fa-solid fa-cloud-sun"></i> Weather App</h1>
+  <p class="tagline">Get real-time weather updates for any city!</p> 
+</header>
+<div class="main-content">
   <div class="weather-container">
     <h1>Weather App</h1>
     <div id="clock"></div>
     <input type="text" id="cityInput" placeholder="Enter city name" />
-    <button onclick="getWeather()">Get Weather</button>
-     <button id="locationBtn">📍 Use My Location</button> <div id="weatherResult" class="weather-result"></div>
+      <button onclick="getWeather()">Get Weather</button>
+      <button id="locationBtn"> <i class="fa-solid fa-location-dot"></i> My Location</button>
+    <div id="weatherResult" class="weather-result"></div>
   </div>
-  
- <footer id="footer">
+</div>
+<footer id="footer">
   <div class="footer-container">
     <p class="footer-title">📬 Let's Connect</p>
     <div class="footer-links">
