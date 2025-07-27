@@ -20,9 +20,12 @@ A clean and responsive weather app built using **HTML**, **CSS**, and **JavaScri
 
 - 🔍 Search for current weather by city name
 - 📡 Real-time data using OpenWeatherMap API
+- 📍 Get weather based on current location using Geolocation API
 - 🎨 Dynamic container background based on weather (e.g., Clear, Rain, Clouds)
 - 📱 Fully responsive design
+- ⏰ Live real-time digital clock
 - 🖼️ Full-screen background image without cropping
+- 🔗 Footer with external links (LinkedIn, GitHub, Portfolio)
 
 ---
 
